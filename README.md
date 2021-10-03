@@ -1,4 +1,4 @@
-- 👋 Hi, I’m shekhar mouryaa
+- 👋 Hi, I’m Er. Shekhar Mourya
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML, CSS, BootStrap, Javascript, React, Redux.
 - 💞️ I’m looking to collaborate on Any Project which help to improve my skills
