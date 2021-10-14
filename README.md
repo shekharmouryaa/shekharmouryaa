@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shekharmourya19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shekharmourya19" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/shekharmouryaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shekharmouryaa" height="30" width="40" /></a>
+<a href="https://twitter.com/shekharmourya19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shekharmourya19" height="30" width="40" /></a>
 <a href="https://fb.com/er.shekharmourya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="er.shekharmourya" height="30" width="40" /></a>
 <a href="https://instagram.com/shekhar_mourya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shekhar_mourya" height="30" width="40" /></a>
 </p>
