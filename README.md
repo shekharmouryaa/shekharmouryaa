@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **sm@contactmeon@gmail.com**
 
-- ⚡ Fun fact **I am trainer**
+- ⚡ Fun fact **I am Me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
