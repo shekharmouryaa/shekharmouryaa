@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shekharmouryaa&label=Profile%20views&color=0e75b6&style=flat" alt="shekharmouryaa" /> </p>
 
-- 🔭 I’m currently working on [JavaScript Project](https://shekharmouryaa.github.io/Background-Genrator/)
+- 🔭 I’m currently working on [React Project](https://shekharmouryaa.github.io/robotapp/)
 
 - 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on [Background-Genrator](https://shekharmouryaa.github.io/Background-Genrator/)
 
-- 🤝 I’m looking for help with [Background-Genrator](https://shekharmouryaa.github.io/Background-Genrator/)
+- 🤝 I’m looking for help with [Robot App](https://shekharmouryaa.github.io/robotapp/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/shekharmouryaa](https://github.com/shekharmouryaa)
 
