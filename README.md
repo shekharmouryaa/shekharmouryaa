@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shekhar Mourya</h1>
 
-- 🌱 I’m currently learning **ReactJS - Redux**
+- 🌱 I’m currently learning **Node Js**
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/shekharmouryaa)
 
-- 💬 Ask me about **HTML, CSS , JavaScript,Bootstrap, ReactJs , Redux**
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, ReactJs, Redux, Typescript, NextJs**
 
-- 📫 How to reach me **sm.contactmeon@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/shekhar-mourya**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
